@@ -11,6 +11,7 @@ https://www.postgresqltutorial.com/install-postgresql/
 Installation of the Ruby on Rails framework
 
 Step 1 — Creating a New Rails Application
+
 rails new rails_react_recipe -d=postgresql -T --webpack=react --skip-coffee
 
 cd rails_react_recipe
